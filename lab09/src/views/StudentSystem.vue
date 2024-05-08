@@ -1,14 +1,9 @@
 <template>
-    <div>
-        <h3>你好,这里是学生管理系统</h3>
-        
-    </div>
+  <div>
+    <h3>你好,这里是学生管理系统</h3>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>

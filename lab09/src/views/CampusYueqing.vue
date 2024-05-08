@@ -1,13 +1,9 @@
 <template>
-    <div>
-        <h3>你好,这里是温州理工乐清校区</h3>
-    </div>
+  <div>
+    <h3>你好,这里是温州理工乐清校区</h3>
+  </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<style scoped>
-
-</style>
+<style scoped></style>
