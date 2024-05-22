@@ -37,13 +37,13 @@ const addDialogVisible = ref(false)
 const addedBook: Book = reactive({
   title: '',
   author: '',
-  copies: 0
+  copies: 1
 })
 
 const addDialogClose = () => {
   addedBook.title = ''
   addedBook.author = ''
-  addedBook.copies = 0
+  addedBook.copies = 1
 }
 
 const addBook = () => {
